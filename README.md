@@ -24,10 +24,14 @@ Python Workshop, Feb 2015, Amrita University
 ### Chapter 02
 
 * REPL
-* Numbers, Strings, Lists
+* Numbers, Strings, Lists, Tuples, Sets, Dicts
     - `type()`
-    - A look at some string functions
-    - A look at some list functions
+    - A look at some string methods
+    - A look at some list methods
+    - A look at some set methods
+    - A look at some dict methods
+    - `None`, `True`, `False`
+    - Practice Problems
 * Conditional statements
 * Loops
 * List Comprehensions
@@ -40,14 +44,11 @@ Python Workshop, Feb 2015, Amrita University
 
 * Coding practices
 * Using git
+* Data Structures Excercise
+* Algorithms Excercise
 
 ### Chapter 04
 
-* Data & Data structures
-    - Lists
-    - Sets
-    - Dicts
-    - Tuples
 * Files
 * Python Philosophy
     - Naming conventions
