@@ -14,14 +14,28 @@ Python Workshop, Feb 2015, Amrita University
     - Java, C#
     - C, C++
     - Python, Ruby
-    - Javascript, Coffeescript
+    - Javascript, Coffeescript, Nodejs
     - Scala, Clojure, Erlang, Go, Racket, Scheme, Groovy
     - Lisp
     - Haskell
 * When to use python and when to use which other language?
+* How I choose a language
+    - I hate Noise (Readability)
+        + Let's look at Java vs. Python Hello worlds
+    - Data Structures
+    - Modules, Standard library
+    - Package management
+    - Google, StackOverflow, Github
 * Are you a good programmer?
+    - Adapt to the community
+    - Understand humans (esp. IT world)
+    - Introspect (Life)
 
 ### Chapter 02
+
+* Git
+
+### Chapter 03
 
 * REPL
 * Numbers, Strings, Lists, Tuples, Sets, Dicts
@@ -39,29 +53,29 @@ Python Workshop, Feb 2015, Amrita University
     - User-defined
     - In-built
     - Lambdas
-
-### Chapter 03
-
-* Coding practices
-* Using git
-* Data Structures Excercise
-* Algorithms Excercise
+* Python Philosophy
+    - Naming conventions
+    - PEP8
 
 ### Chapter 04
 
 * Files
-* Python Philosophy
-    - Naming conventions
-    - PEP8
-* Classes
+* Modules
+* `pip`
+* `dis`
+* Data Structures Excercise
+* Algorithms Excercise
 
 ### Chapter 05
 
+* Classes
 * Functional Programming vs. OOP
     - Mutability & Concurrency
 * Higher order functions
 * Regular expressions
-
+* Data Science & Python
+    - Pandas
+* Optimization, using `line_profiler`
 
 ---
 
