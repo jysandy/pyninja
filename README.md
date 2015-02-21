@@ -27,7 +27,7 @@ Python Workshop, Feb 2015, Amrita University
 * Numbers, Strings, Lists, Tuples, Sets, Dicts
     - `type()`
     - A look at some string methods
-    - A look at some list methods
+    - A look at some list methods (don't forget list slicing)
     - A look at some set methods
     - A look at some dict methods
     - `None`, `True`, `False`
