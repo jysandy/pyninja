@@ -27,7 +27,8 @@ Python Workshop, Feb 2015, Amrita University
     - Package management
     - Google, StackOverflow, Github
 * Are you a good programmer?
-    - Adapt to the community
+    - Computer Science
+    - Adapt to the community (and read Open Source code)
     - Understand humans (esp. IT world)
     - Introspect (Life)
 
@@ -46,27 +47,36 @@ Python Workshop, Feb 2015, Amrita University
     - A look at some dict methods
     - `None`, `True`, `False`
     - Practice Problems
-* Conditional statements
+* Conditional statements, Logical Ops
 * Loops
 * List Comprehensions
 * Functions
     - User-defined
     - In-built
     - Lambdas
+
+### Chapter 04
+
+* Modules
+    - Standard library
+    - Itertools
+    - Let's create our own modules
+    - `pip`
+    - `dis`
 * Python Philosophy
     - Naming conventions
     - PEP8
 
-### Chapter 04
+### Chapter 05
 
-* Files
-* Modules
-* `pip`
-* `dis`
+* Exceptions
+* Persistence (and the CRUD philosophy)
+    - Files
+    - SQLite
 * Data Structures Excercise
 * Algorithms Excercise
 
-### Chapter 05
+### Chapter 06
 
 * Classes
 * Functional Programming vs. OOP
