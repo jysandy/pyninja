@@ -1,0 +1,5 @@
+'Rama': 616
+'Sita': 250
+'Hanuman': 34
+'Laxman': 0
+'Bharat': 90
